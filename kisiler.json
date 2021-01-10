@@ -1,0 +1,8 @@
+[
+    {"isim": "Mustafa Çağrı Güven", "yas": 33, "sehir": "Ankara", "boy": 188, "kilo": 88, "cinsiyet": "erkek", "gozRengi": "kahve"},
+    {"isim": "Ahmet Güven", "yas": 83, "sehir": "Balıkesir", "boy": 162, "kilo": 80, "cinsiyet": "erkek", "gozRengi": "siyah"},
+    {"isim": "Ali Güven", "yas": 92, "sehir": "Balıkesir", "boy": 182, "kilo": 90, "cinsiyet": "erkek", "gozRengi": "ela"},
+    {"isim": "Emine Güven", "yas": 83, "sehir": "Balıkesir", "boy": 172, "kilo": 70, "cinsiyet": "kadın", "gozRengi": "ela"},
+    {"isim": "Afra Güven", "yas": 8, "sehir": "Dursunbey", "boy": 122, "kilo": 24, "cinsiyet": "kadın", "gozRengi": "kahve"},
+    {"isim": "Eslem Güven", "yas": 14, "sehir": "Dursunbey", "boy": 152, "kilo": 41, "cinsiyet": "kadın", "gozRengi": "yeşil"}
+]
